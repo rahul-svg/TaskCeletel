@@ -1,0 +1,47 @@
+{
+  "customers": [
+    {
+      "username": "unknown875",
+      "email": "rahulgadi@gmail.com",
+      "phone": "9318461693",
+      "company": "Google",
+      "id": 4
+    },
+    {
+      "username": "Ankush Yadav",
+      "email": "ankush12@gmail.com",
+      "phone": "9876452312",
+      "company": "IBM",
+      "id": 5
+    },
+    {
+      "username": "Rahul Kumar",
+      "email": "rahulgadi@gmail.com",
+      "phone": "09318461693",
+      "company": "Coox",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "rahulgadi211@gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "rahulgadi211@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "rahulgadi211@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "rahulgadi211@gmail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ]
+}
